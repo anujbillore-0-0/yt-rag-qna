@@ -104,4 +104,3 @@ streamlit run app.py
 6. **Answer Generation** – Sends retrieved context to Groq's LLaMA 3 for final response.
 
 ---
-If you want, I can also prepare a **diagram showing the RAG pipeline flow** for this README so it's more visually appealing. That would help users understand it at a glance.
